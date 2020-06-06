@@ -1,7 +1,7 @@
 {
     "name": "@sabinayakc/react-native-fast-image",
     "author": "Sabinaya KC <kc.sabinaya@gmail.com>",
-    "version": "1.0.0",
+    "version": "0.0.1",
     "description": "🚩 FastImage, performant React Native image component.",
     "keywords": [
         "cache",
