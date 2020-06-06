@@ -1,5 +1,5 @@
 {
-    "name": "@sabinayakc/tui-image-editor",
+    "name": "@sabinayakc/react-native-fast-image",
     "author": "Sabinaya KC <kc.sabinaya@gmail.com>",
     "version": "1.0.0",
     "description": "🚩 FastImage, performant React Native image component.",
@@ -28,7 +28,7 @@
         "ios",
         "!ios/build",
         "dist",
-        "RNFastImage.podspec"
+        "RNFastImagePlus.podspec"
     ],
     "scripts": {
         "build": "tsdx build && cp src/index.js.flow dist/index.js.flow",
