@@ -1,6 +1,7 @@
 {
-    "name": "react-native-fast-image",
-    "version": "8.1.5",
+    "name": "@sabinayakc/tui-image-editor",
+    "author": "Sabinaya KC <kc.sabinaya@gmail.com>",
+    "version": "1.0.0",
     "description": "🚩 FastImage, performant React Native image component.",
     "keywords": [
         "cache",
@@ -9,16 +10,15 @@
         "image",
         "priority"
     ],
-    "homepage": "https://github.com/DylanVann/react-native-fast-image#readme",
+    "homepage": "https://github.com/sabinayakc/react-native-fast-image#readme",
     "bugs": {
-        "url": "https://github.com/DylanVann/react-native-fast-image/issues"
+        "url": "https://github.com/sabinayakc/react-native-fast-image/issues"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/DylanVann/react-native-fast-image.git"
+        "url": "https://github.com/sabinayakc/react-native-fast-image.git"
     },
     "license": "(MIT AND Apache-2.0)",
-    "author": "Dylan Vann <dylan@dylanvann.com> (https://dylanvann.com)",
     "main": "dist/index.js",
     "module": "dist/react-native-fast-image.esm.js",
     "typings": "dist/index.d.ts",
@@ -94,8 +94,7 @@
             "@semantic-release/commit-analyzer",
             "@semantic-release/release-notes-generator",
             "@semantic-release/changelog",
-            "@semantic-release/npm",
-            "@semantic-release/git"
+            "@semantic-release/npm"
         ]
     }
 }
